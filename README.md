@@ -1,2 +1,2 @@
-# JSXAdvance
+# JSXbasic
 Created with CodeSandbox
